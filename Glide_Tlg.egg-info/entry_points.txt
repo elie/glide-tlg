@@ -1,0 +1,4 @@
+[sphinx.html_themes]
+handouts-tlg = glide_tlg
+revealjs-tlg = glide_tlg
+

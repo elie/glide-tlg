@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.py
+Glide_Tlg.egg-info/PKG-INFO
+Glide_Tlg.egg-info/SOURCES.txt
+Glide_Tlg.egg-info/dependency_links.txt
+Glide_Tlg.egg-info/entry_points.txt
+Glide_Tlg.egg-info/requires.txt
+Glide_Tlg.egg-info/top_level.txt
+Glide_Tlg/__init__.py
+Glide_Tlg/themes/handouts-tlg/theme.conf
+Glide_Tlg/themes/handouts-tlg/static/tlg.png
+Glide_Tlg/themes/revealjs-tlg/theme.conf
+Glide_Tlg/themes/revealjs-tlg/static/tlg.png
